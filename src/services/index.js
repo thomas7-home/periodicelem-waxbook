@@ -1,6 +1,6 @@
 let ATOMIC_WAX_API = "https://wax.api.atomicassets.io/atomicassets/v1/";
-let sticks_by_page = 6;
-let collection = "crptomonkeys";
+let sticks_by_page = 8;
+let collection = "periodicelem";
 
 export const fetchUser = async (setUser, user) => {
   const response = await fetch(

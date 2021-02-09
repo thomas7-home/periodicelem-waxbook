@@ -9,9 +9,9 @@ function Header({ setUser, user, getUser }) {
       <div className='header--logo'>
         <Link to='/' className='menu--link'>
           <img
-            src='https://cdn.discordapp.com/attachments/740685225608216609/750693304399691806/image0.png'
+            src='https://wax.atomichub.io/ipfs/${data[0].collection.img'
             width='50'
-            alt='cryptomonkey logo'
+            alt='periodicelem logo'
           />
         </Link>
       </div>
@@ -23,7 +23,7 @@ function Header({ setUser, user, getUser }) {
               onChange={(e) =>
                 setUser((data) => ({ ...data, ...{ user: e.target.value } }))
               }
-              placeholder='Input your WAX username (username.wam or username.waa)'
+              placeholder='Input your WAX account (.wam or .waa)'
               value={user?.user}
             />
             <button type='submit' className='input--button' onClick={getUser}>
@@ -46,7 +46,7 @@ function Header({ setUser, user, getUser }) {
             width={25}
             height={35}
             style={{ paddingTop: "8px" }}
-            fill={"yellow"}
+            fill={"red"}
           />
         </label>
         <input type='checkbox' id='open' className='menu--check' />

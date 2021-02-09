@@ -6,13 +6,14 @@ export const Footer = () => {
   const [copied, setCopy] = useState({ copy: false });
 
   return (
-    <footer>
+	<footer>
       <h3 className='credits'>
         Created with
         <span role='img' aria-label='love'>
           💓
         </span>
         by Eroshi Solutions!
+		Adapted to Periodic Elements by sebrock42
       </h3>
       <div className='credits--block'>
         <p className='credits--username'>
@@ -37,5 +38,5 @@ export const Footer = () => {
         </Tooltip>
       </div>
     </footer>
-  );
+   );
 };

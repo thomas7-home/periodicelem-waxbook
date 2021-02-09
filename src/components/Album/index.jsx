@@ -31,10 +31,10 @@ export const AlbumContainer = React.forwardRef(
               }}
               className='final--header'
             >
-              Soon, new NFTs!
+              New Elements and Molecules released continually!
               <br></br>
-              <a href='https://discord.gg/yyQFSdEyEz'>
-                Visit cryptoMonkeys Discord
+              <a href='https://www.publish0x.com/periodic-table-of-elements-nft'>
+                Visit Periodic Elements on publish0x
               </a>
             </p>
           </div>
