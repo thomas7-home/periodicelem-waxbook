@@ -9,8 +9,8 @@ function Header({ setUser, user, getUser }) {
       <div className='header--logo'>
         <Link to='/' className='menu--link'>
           <img
-            src='https://wax.atomichub.io/ipfs/${data[0].collection.img'
-            width='50'
+            src='https://wax.atomichub.io/ipfs/QmabyW8XpNaSqmBLgboC78dkcG7LDn8CE76WN3hinqsXb1'
+            width='120'
             alt='periodicelem logo'
           />
         </Link>
@@ -46,7 +46,7 @@ function Header({ setUser, user, getUser }) {
             width={25}
             height={35}
             style={{ paddingTop: "8px" }}
-            fill={"red"}
+            fill={"#ad514d"}
           />
         </label>
         <input type='checkbox' id='open' className='menu--check' />
@@ -61,7 +61,7 @@ function MenuHeader() {
     <nav className='menu--aside'>
       <ul className='menu--aside__block'>
         <li>
-          <Link to='/suggestion'>Suggestions</Link>
+          <Link to='/suggestion'>Click here to tell us about your suggestions</Link>
         </li>
         <li>
           <Footer />

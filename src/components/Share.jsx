@@ -10,7 +10,7 @@ export const Share = ({ params, user }) => {
       <section className='share--block'>
         <p
           className='share--description'
-          style={{ fontSize: ".75rem", color: "yellow" }}
+          style={{ fontSize: ".75rem", color: "white" }}
         >
           Share your Sticker Book:{" "}
         </p>

@@ -35,14 +35,14 @@ header {
 }
 
 .cover__green {
-  background: #488f36;
+  background: #ad514d;
   color: white;
   display: flex;
   text-align: center;
 }
 
 .cover__green--image {
-  width: 100px;
+  width: 200px;
 }
 
 .cover__green--title {
@@ -85,7 +85,7 @@ header {
 }
 
 .menu:hover {
-  fill: rgb(187, 245, 72);
+  fill: rgb(217, 167, 165);
 }
 
 .menu:active {
@@ -127,11 +127,11 @@ header {
   height: 80vh;
   top: 80px;
   right: 0;
-  width: 100%;
-  background: green;
+  width: 80%;
+  background: #ad514d;
   z-index: 9999;
   transition: all 200ms linear;
-  transform: translateY(150%);
+  transform: translateY(120%);
 }
 
 .menu--check:checked ~ .menu--aside {
@@ -210,7 +210,7 @@ a:visited {
 }
 
 .cover__page--final {
-  background: #5db447;
+  background: #ad514d;
   align-items: center;
 }
 
@@ -249,8 +249,8 @@ a:visited {
 
 footer {
   font-size: 0.6rem;
-  color: #ffff00d8;
-  text-shadow: green -2px 1px 5px;
+  color: white;
+  text-shadow: #ad514d -2px 1px 5px;
 }
 
 .block--page {

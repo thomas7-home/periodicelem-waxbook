@@ -10,7 +10,7 @@ const Tooltip = ({ timing, setCopy, copy, children }) => {
     <section className={`donate ${copy ? `donate--show` : null}`}>
       <span
         style={{
-          background: "red",
+          background: "#ad514d",
           padding: "10px",
           borderRadius: "5px",
         }}
