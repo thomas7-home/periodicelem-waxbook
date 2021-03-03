@@ -1,6 +1,6 @@
 {
-  "name": "periodicelemwaxbook",
-  "version": "0.0.1",
+  "name": "periodicelem-waxbook",
+  "version": "0.1.0",
   "description": "Periodic Elements Sticker Book",
   "keywords": [
     "react",
@@ -14,7 +14,8 @@
     "react-pageflip": "1.0.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^4.0.3",
+    "surge": "^0.21.7"
   },
   "devDependencies": {
     "typescript": "3.8.3"
