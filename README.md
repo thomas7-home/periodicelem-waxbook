@@ -1,5 +1,5 @@
 # periodicelem-waxbook
-Stickerbook made in React and using WAX API to check your WAX NFT card collection.
+WAX NFT card collector's book made in React and using the WAX API
 
 Adapted for the Periodic Elements collection (periodicelem) by sebrock
 
