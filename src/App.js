@@ -2,7 +2,7 @@ import React from "react";
 import Album from "./routes/Album";
 import Suggestion from "./routes/Suggestion";
 import "./styles.css";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 export default function App() {
   return (
