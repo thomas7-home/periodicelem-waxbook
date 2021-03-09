@@ -5,11 +5,11 @@ function Suggestion(props) {
     <Layout>
       <div className='block--page'>
         <h3>
-          If you have some suggestions for this platform you can send in the
+          If you have some comments, questions or suggestions for this platform you can tell us through the
           form below:
         </h3>
         <iframe
-          src='https://docs.google.com/forms/d/e/1FAIpQLSegdt6uKs67rqj2MyY4P46sO7x-G47fOAHb2jVOX5Haqo8ZBw/viewform?embedded=true'
+          src='https://forms.gle/rcEBLumxftwkCTTj8?embedded=true'
           width={window.screen.width < 660 ? "325" : "660"}
           height='820'
           title='form'
