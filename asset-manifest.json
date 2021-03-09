@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/periodicelem-waxbook/static/css/main.4883de7d.chunk.css",
-    "main.js": "/periodicelem-waxbook/static/js/main.7a3896f5.chunk.js",
-    "main.js.map": "/periodicelem-waxbook/static/js/main.7a3896f5.chunk.js.map",
+    "main.js": "/periodicelem-waxbook/static/js/main.c8fbc043.chunk.js",
+    "main.js.map": "/periodicelem-waxbook/static/js/main.c8fbc043.chunk.js.map",
     "runtime-main.js": "/periodicelem-waxbook/static/js/runtime-main.68a53ace.js",
     "runtime-main.js.map": "/periodicelem-waxbook/static/js/runtime-main.68a53ace.js.map",
     "static/js/2.015ebcf7.chunk.js": "/periodicelem-waxbook/static/js/2.015ebcf7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.68a53ace.js",
     "static/js/2.015ebcf7.chunk.js",
     "static/css/main.4883de7d.chunk.css",
-    "static/js/main.7a3896f5.chunk.js"
+    "static/js/main.c8fbc043.chunk.js"
   ]
 }
