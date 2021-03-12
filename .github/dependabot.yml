@@ -9,14 +9,13 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "16:30"
+      time: "20:00"
       timezone: "Europe/Berlin"
     assignees:
       - "sebrock"
-     commit-message:
-      # Prefix all commit messages with "npm"
-      prefix: "npm"
+# Prefix all commit messages with "npm"
+    prefix: "npm"
           # Specify labels for npm pull requests
-     labels:
+    labels:
       - "dependencies"
       
