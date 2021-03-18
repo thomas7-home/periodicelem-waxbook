@@ -61,7 +61,9 @@ function MenuHeader() {
     <nav className='menu--aside'>
       <ul className='menu--aside__block'>
         <li>
-          <Link to='/suggestion'>Click here to tell us about your suggestions</Link>
+          <Link to='/suggestion'>
+            Click here to tell us about your suggestions
+          </Link>
         </li>
         <li>
           <Footer />
