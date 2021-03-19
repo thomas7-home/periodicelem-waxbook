@@ -9,7 +9,7 @@ function Header({ setUser, user, getUser }) {
       <div className='header--logo'>
         <Link to='/' className='menu--link'>
           <img
-            src='https://wax.atomichub.io/ipfs/QmabyW8XpNaSqmBLgboC78dkcG7LDn8CE76WN3hinqsXb1'
+            src='../../assets/periodicelem-logo.jpg'
             width='120'
             alt='periodicelem logo'
           />
