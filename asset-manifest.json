@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/periodicelem-waxbook/static/css/main.4883de7d.chunk.css",
-    "main.js": "/periodicelem-waxbook/static/js/main.c8fbc043.chunk.js",
-    "main.js.map": "/periodicelem-waxbook/static/js/main.c8fbc043.chunk.js.map",
-    "runtime-main.js": "/periodicelem-waxbook/static/js/runtime-main.68a53ace.js",
-    "runtime-main.js.map": "/periodicelem-waxbook/static/js/runtime-main.68a53ace.js.map",
-    "static/js/2.015ebcf7.chunk.js": "/periodicelem-waxbook/static/js/2.015ebcf7.chunk.js",
-    "static/js/2.015ebcf7.chunk.js.map": "/periodicelem-waxbook/static/js/2.015ebcf7.chunk.js.map",
+    "main.js": "/periodicelem-waxbook/static/js/main.88ce97a9.chunk.js",
+    "main.js.map": "/periodicelem-waxbook/static/js/main.88ce97a9.chunk.js.map",
+    "runtime-main.js": "/periodicelem-waxbook/static/js/runtime-main.e4c41b39.js",
+    "runtime-main.js.map": "/periodicelem-waxbook/static/js/runtime-main.e4c41b39.js.map",
+    "static/js/2.feb75aef.chunk.js": "/periodicelem-waxbook/static/js/2.feb75aef.chunk.js",
+    "static/js/2.feb75aef.chunk.js.map": "/periodicelem-waxbook/static/js/2.feb75aef.chunk.js.map",
     "index.html": "/periodicelem-waxbook/index.html",
     "static/css/main.4883de7d.chunk.css.map": "/periodicelem-waxbook/static/css/main.4883de7d.chunk.css.map",
-    "static/js/2.015ebcf7.chunk.js.LICENSE.txt": "/periodicelem-waxbook/static/js/2.015ebcf7.chunk.js.LICENSE.txt",
+    "static/js/2.feb75aef.chunk.js.LICENSE.txt": "/periodicelem-waxbook/static/js/2.feb75aef.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/periodicelem-waxbook/static/media/NowAlt-Regular.fa0e4744.woff",
     "static/media/menu.b48d4616.svg": "/periodicelem-waxbook/static/media/menu.b48d4616.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68a53ace.js",
-    "static/js/2.015ebcf7.chunk.js",
+    "static/js/runtime-main.e4c41b39.js",
+    "static/js/2.feb75aef.chunk.js",
     "static/css/main.4883de7d.chunk.css",
-    "static/js/main.c8fbc043.chunk.js"
+    "static/js/main.88ce97a9.chunk.js"
   ]
 }
