@@ -2,15 +2,15 @@
   "name": "periodicelem-waxbook",
   "version": "0.1.1",
   "description": "Periodic Elements Sticker Book",
-  "homepage" : "https://sebrock.github.io/periodicelem-waxbook",
+  "homepage": "https://sebrock.github.io/periodicelem-waxbook",
   "keywords": [
     "react",
     "starter",
-	"nft",
-	"periodicelem",
-	"cards",
-	"sticker",
-	"book"
+    "nft",
+    "periodicelem",
+    "cards",
+    "sticker",
+    "book"
   ],
   "main": "src/index.js",
   "dependencies": {
