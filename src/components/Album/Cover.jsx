@@ -5,7 +5,7 @@ export const Cover = ({ user, data }) => {
     <>
       <h1 className='cover__green--title'>Periodic Elements Collection Book</h1>
       <img
-        src={`src=../../assets/periodicelem-logo.jpg`}
+        src={`../../assets/periodicelem-logo.jpg`}
         className='cover__green--image'
         alt='logo'
       />
