@@ -1,11 +1,12 @@
 # Welcome to periodicelem-waxbook
 A WAX NFT collection book made in React.
-
-![](./assets/periodicelem-screen.png)
-
 Adapted for the Periodic Table Of Elements - NFT collection (periodicelem) by sebrock
 
 All credit for the original [cryptomonKeys version](https://github.com/andrecrjr/cryptomonkey-stickerbook) goes to [andrecrjr](https://github.com/andrecrjr) 💛
+
+![](./src/assets/periodicelem-screen.png)
+
+
 
  # The Periodic Table NFT project (
 The periodic table, also known as the periodic table of elements, is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties. Each of us has a good memory of the school period. The periodic table of the elements was certainly a part of our journey. The time has come to retrace each element and collect the most exciting ones.
