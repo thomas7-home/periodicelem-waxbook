@@ -2,17 +2,14 @@ import React from "react";
 import { ReactComponent as Menu } from "../../assets/menu.svg";
 import { Footer } from "../Footer";
 import { Link } from "react-router-dom";
+import logoImage from "../../assets/periodicelem.png";
 
 function Header({ setUser, user, getUser }) {
   return (
     <header>
       <div className='header--logo'>
         <Link to='/' className='menu--link'>
-          <img
-            src='../../assets/periodicelem-logo.jpg'
-            width='120'
-            alt='periodicelem logo'
-          />
+          <img src={logoImage} width='120' alt='periodicelem logo' />
         </Link>
       </div>
       <div className='input--user'>
@@ -61,7 +58,9 @@ function MenuHeader() {
     <nav className='menu--aside'>
       <ul className='menu--aside__block'>
         <li>
-          <Link to='/suggestion'>Click here to tell us about your suggestions</Link>
+          <Link to='/suggestion'>
+            Click here to tell us about your suggestions
+          </Link>
         </li>
         <li>
           <Footer />
