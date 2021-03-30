@@ -4,6 +4,8 @@ Adapted for the Periodic Table Of Elements - NFT collection (periodicelem) by se
 
 This  is a community effort to support the Periodic Table NFT project and not endorsed by of affiliated with project.
 
+You will always find the lastest version on https://sebrock.github.io/periodicelem-waxbook/#/
+
 All credit for the original [cryptomonKeys version](https://github.com/andrecrjr/cryptomonkey-stickerbook) goes to [andrecrjr](https://github.com/andrecrjr) 💛
 
 ![](./src/assets/periodicelem-screen.png)
