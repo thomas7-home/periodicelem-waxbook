@@ -32,7 +32,7 @@ export const Share = ({ params, user }) => {
         </CopyToClipboard>
       </section>
       <Tooltip copy={copied.copy} setCopy={setCopy} timing={2000}>
-        Share url copied!
+        Share URL copied!
       </Tooltip>
     </>
   );
