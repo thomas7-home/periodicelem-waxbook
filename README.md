@@ -29,5 +29,6 @@ The whole project is based on the collection of NFTs that can be bought on the s
 Check out the resources below
  ## [Buy periodicelem NFTs](https://wax.atomichub.io/market?collection_name=periodicelem&order=desc&sort=created&symbol=WAX)
  ## Check the [Blog on publish0x](https://www.publish0x.com/periodic-table-of-elements-nft/) frequently
- ## TAlk to the project on the [Telegram channel](https://t.me/periodicelem)
+ ## Subscribe to the [Telegram new post notifications channel](https://t.me/periodicelem)
  ## Meet the community On the [WAX Ecosystem Discord](https://discord.gg/8mqYBywpuB): in the "all-projects" channel
+ 
