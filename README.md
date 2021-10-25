@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/sebrock/periodicelem-waxbook/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sebrock/periodicelem-waxbook/actions/workflows/codeql-analysis.yml)
+
 # Welcome to periodicelem-waxbook
 A WAX NFT collection book made in React.
 Adapted for the Periodic Table Of Elements - NFT collection (periodicelem) by sebrock.
