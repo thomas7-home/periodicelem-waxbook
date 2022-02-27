@@ -2,7 +2,7 @@
   "name": "periodicelem-waxbook",
   "version": "0.1.1",
   "description": "Periodic Elements Sticker Book",
-  "homepage": "https://sebrock.github.io/periodicelem-waxbook",
+  "homepage": "https://pixelbook.vercel.app",
   "keywords": [
     "react",
     "starter",
