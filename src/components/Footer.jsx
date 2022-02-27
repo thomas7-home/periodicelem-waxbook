@@ -13,7 +13,9 @@ export const Footer = () => {
           💓
         </span>
         by Eroshi Solutions!
-		Adapted to Periodic Elements by sebrock42
+		Adapted to Periodic Elements by sebrock42 <br />
+    Adapted to Proton and Pixel Heroes by Thomas <br />
+    Donate to Eroshi at the below Banano Address:
       </h3>
       <div className='credits--block'>
         <p className='credits--username'>

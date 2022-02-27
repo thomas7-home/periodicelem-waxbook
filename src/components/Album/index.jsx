@@ -8,7 +8,7 @@ export const AlbumContainer = React.forwardRef(
     <div className='container'>
       {page.length > 0 && (
         <HTMLFlipBook
-          width={340}
+          width={386}
           height={500}
           maxHeight={550}
           showCover={true}
@@ -31,11 +31,7 @@ export const AlbumContainer = React.forwardRef(
               }}
               className='final--header'
             >
-              New Elements and Molecules released continually!
-              <br></br>
-              <a href='https://www.publish0x.com/periodic-table-of-elements-nft'>
-                Visit Periodic Elements on publish0x
-              </a>
+
             </p>
           </div>
         </HTMLFlipBook>
