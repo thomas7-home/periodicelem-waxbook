@@ -9,7 +9,7 @@ const Card = ({ cardData, userData }) => {
       })
     );
   }, [userData, cardData.template_id]);
-   if (cardData.immutable_data.img !== "")
+   if (cardData.immutable_data.image !== "")
     return (
       <div className='card--wrap'>
         <img

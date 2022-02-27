@@ -8,7 +8,7 @@ export const AlbumContainer = React.forwardRef(
     <div className='container'>
       {page.length > 0 && (
         <HTMLFlipBook
-          width={340}
+          width={386}
           height={500}
           maxHeight={550}
           showCover={true}
@@ -31,11 +31,7 @@ export const AlbumContainer = React.forwardRef(
               }}
               className='final--header'
             >
-              Collect them all!
-              <br></br>
-              <a href='https://www.protonmint.com/pixelhero1st'>
-                Buy Pixel Heroes NFT's
-              </a>
+
             </p>
           </div>
         </HTMLFlipBook>
