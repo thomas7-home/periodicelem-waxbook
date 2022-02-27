@@ -14,7 +14,7 @@
 
 body {
   font-family: "NowAlt";
-  background: #2a292e;
+  background: #3c3e3e;
 }
 
 .container {
@@ -35,18 +35,19 @@ header {
 }
 
 .cover__green {
-  background: #ad514d;
+  background-image: url("https://images.weserv.nl/?url=https://gateway.ipfs.io/ipfs/QmdTFf9rp7nvGy8CfRkTN5aMHfTfsdGCsCRzrc7sCiGLJi");
   color: white;
   display: flex;
   text-align: center;
 }
 
 .cover__green--image {
-  width: 200px;
+  width: 150px;
+  margin-top: 25%;
 }
 
 .cover__green--title {
-  margin-top: 50%;
+  margin-top: 25%;
   font-size: 1.2rem;
   padding-bottom: 10px;
 }
@@ -128,7 +129,7 @@ header {
   top: 80px;
   right: 0;
   width: 80%;
-  background: #ad514d;
+  background: #5f6060;
   z-index: 9999;
   transition: all 200ms linear;
   transform: translateY(120%);
@@ -202,7 +203,7 @@ a:visited {
   height: 30px;
   right: 0;
   color: white;
-  background: rgb(76 185 73);
+  background: rgb(71 71 71);
   bottom: 0;
   border-radius: 50%;
   font-weight: bold;
@@ -250,7 +251,7 @@ a:visited {
 footer {
   font-size: 0.6rem;
   color: white;
-  text-shadow: #ad514d -2px 1px 5px;
+  text-shadow: #000000 -2px 1px 5px;
 }
 
 .block--page {

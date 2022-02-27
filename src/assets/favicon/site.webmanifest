@@ -1,6 +1,6 @@
 {
-    "name": "WAX Album",
-    "short_name": "WAX Album",
+    "name": "Proton Album",
+    "short_name": "Proton Album",
     "icons": [
         {
             "src": "/src/assets/favicon/android-chrome-192x192.png",

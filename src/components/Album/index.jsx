@@ -31,10 +31,10 @@ export const AlbumContainer = React.forwardRef(
               }}
               className='final--header'
             >
-              New Elements and Molecules released continually!
+              Collect them all!
               <br></br>
-              <a href='https://www.publish0x.com/periodic-table-of-elements-nft'>
-                Visit Periodic Elements on publish0x
+              <a href='https://www.protonmint.com/pixelhero1st'>
+                Buy Pixel Heroes NFT's
               </a>
             </p>
           </div>

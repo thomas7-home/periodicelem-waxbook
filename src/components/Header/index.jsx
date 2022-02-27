@@ -2,14 +2,14 @@ import React from "react";
 import { ReactComponent as Menu } from "../../assets/menu.svg";
 import { Footer } from "../Footer";
 import { Link } from "react-router-dom";
-import logoImage from "../../assets/periodicelem.png";
+import logoImage from "../../assets/pixellogo.png";
 
 function Header({ setUser, user, getUser }) {
   return (
     <header>
       <div className='header--logo'>
         <Link to='/' className='menu--link'>
-          <img src={logoImage} width='120' alt='periodicelem logo' />
+          <img src={logoImage} width='120' alt='Pixel Heroes logo' />
         </Link>
       </div>
       <div className='input--user'>
@@ -20,7 +20,7 @@ function Header({ setUser, user, getUser }) {
               onChange={(e) =>
                 setUser((data) => ({ ...data, ...{ user: e.target.value } }))
               }
-              placeholder='Input your WAX account (.wam or .waa)'
+              placeholder='Proton account'
               value={user?.user}
             />
             <button type='submit' className='input--button' onClick={getUser}>
@@ -43,7 +43,7 @@ function Header({ setUser, user, getUser }) {
             width={25}
             height={35}
             style={{ paddingTop: "8px" }}
-            fill={"#ad514d"}
+            fill={"#000000"}
           />
         </label>
         <input type='checkbox' id='open' className='menu--check' />
@@ -57,11 +57,10 @@ function MenuHeader() {
   return (
     <nav className='menu--aside'>
       <ul className='menu--aside__block'>
-        <li>
-          <Link to='/suggestion'>
-            Click here to tell us about your suggestions
-          </Link>
-        </li>
+<br />
+<h3 className='credits'>
+            Credits:
+</h3>
         <li>
           <Footer />
         </li>
